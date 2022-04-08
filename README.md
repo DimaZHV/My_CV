@@ -1,2 +1,2 @@
 # My_CV
-https://dimazhv.github.io/My_CV/index.html
+https://dimazhv.github.io/My_CV/CV.html
